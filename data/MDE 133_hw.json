@@ -1,0 +1,42 @@
+{
+    "G": {
+        "activity_url": "https://moodle.sdu.edu.kz/mod/forum/view.php?id=1163",
+        "activity_name": "Announcements",
+        "activity_type": "Forum"
+    },
+    "1": {
+        "activity_url": "https://moodle.sdu.edu.kz/mod/resource/view.php?id=8111",
+        "activity_name": "1. Ünite (slayt)",
+        "activity_type": "File"
+    },
+    "3": {
+        "activity_url": "https://moodle.sdu.edu.kz/mod/resource/view.php?id=8112",
+        "activity_name": "2. Ünite (slayt)",
+        "activity_type": "File"
+    },
+    "5": {
+        "activity_url": "https://moodle.sdu.edu.kz/mod/resource/view.php?id=10252",
+        "activity_name": "3. Ünite (slayt)",
+        "activity_type": "File"
+    },
+    "6": {
+        "activity_url": "https://moodle.sdu.edu.kz/mod/assign/view.php?id=14709",
+        "activity_name": "ÇALIŞMA KİTABI - 3. ÜNİTE",
+        "activity_type": "Assignment"
+    },
+    "7": {
+        "activity_url": "https://moodle.sdu.edu.kz/mod/resource/view.php?id=13396",
+        "activity_name": "4. Ünite (slayt)",
+        "activity_type": "File"
+    },
+    "8": {
+        "activity_url": "https://moodle.sdu.edu.kz/mod/lti/view.php?id=14300",
+        "activity_name": "MİDTERM 1 (with proctoring)",
+        "activity_type": "External tool"
+    },
+    "9": {
+        "activity_url": "https://moodle.sdu.edu.kz/mod/resource/view.php?id=15256",
+        "activity_name": "5. Ünite (slayt)",
+        "activity_type": "File"
+    }
+}

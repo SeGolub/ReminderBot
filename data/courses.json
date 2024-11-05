@@ -1,0 +1,56 @@
+{
+    "CSS 215": {
+        "course_link": "237",
+        "course_name": "Introduction to Algorithms",
+        "course_teacher": "Sholpan Sabidolda",
+        "course_level": null
+    },
+    "CSS 217": {
+        "course_link": "239",
+        "course_name": "Software Architecture and Design Patterns",
+        "course_teacher": "Nauryzbay Sapargali",
+        "course_level": null
+    },
+    "INF 203": {
+        "course_link": "1648",
+        "course_name": "Information security",
+        "course_teacher": "Timur Matkassimov",
+        "course_level": null
+    },
+    "MAT 138": {
+        "course_link": "1602",
+        "course_name": "Mathematics for Information Systems 2",
+        "course_teacher": "Kamilla Zhamalbekova",
+        "course_level": null
+    },
+    "MDE 115": {
+        "course_link": "845",
+        "course_name": "Kazakh Language 1",
+        "course_teacher": "Aliya Zakariya",
+        "course_level": "B2 level"
+    },
+    "MDE 133": {
+        "course_link": "868",
+        "course_name": "Turkish Language 3",
+        "course_teacher": "Diana Nitto",
+        "course_level": "А2 level"
+    },
+    "MDE 160": {
+        "course_link": "1423",
+        "course_name": "Community engagement and value based Society 1",
+        "course_teacher": "Sholpan Sabidolda",
+        "course_level": null
+    },
+    "MDE 191": {
+        "course_link": "1189",
+        "course_name": "Foreign Language 2",
+        "course_teacher": "Aigerim Anarbekova",
+        "course_level": "English for Academic Purposes - B1+ level "
+    },
+    "MDE 293": {
+        "course_link": "560",
+        "course_name": "Physical Education 3 ",
+        "course_teacher": "Maulen Abdrakhmanov",
+        "course_level": null
+    }
+}
